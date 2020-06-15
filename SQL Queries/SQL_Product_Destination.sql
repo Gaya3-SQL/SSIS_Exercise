@@ -1,0 +1,1 @@
+Select ProductID,Name,ProductNumber,ListPrice,SellStartDate,SellEndDate from Production.Product

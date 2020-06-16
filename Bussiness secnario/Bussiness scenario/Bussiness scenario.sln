@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Bussiness scenario", "Bussiness scenario\Bussiness scenario.dtproj", "{7D03D0E4-F79A-4445-AF15-EA2B47098448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D03D0E4-F79A-4445-AF15-EA2B47098448}.Development|Default.ActiveCfg = Development
+		{7D03D0E4-F79A-4445-AF15-EA2B47098448}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03267404-A426-4CA9-A8B2-52CDB6C75CF6}
+	EndGlobalSection
+EndGlobal

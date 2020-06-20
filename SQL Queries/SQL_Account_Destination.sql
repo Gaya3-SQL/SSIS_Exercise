@@ -1,0 +1,1 @@
+Select AccountKey,AccountType,AccountDescription,Operator from dbo.DimAccount
